@@ -1,7 +1,7 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {}
-}"ghcr.io/audacioustux/devcontainers/aws-sam-cli:1": {}
+  "features": { work}
+}"ghcr.io/audacioustux/devcontainers/aws-sam-cli:1": {hello }
 🐊 The Crocodile Theory
 Silent Intent & Behavioral Dominance
 
